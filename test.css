@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.c {
+    background-color: #ffffff;
+    background-image: url('https://assets.ccbp.in/frontend/static-website/foundations-bg.png');
+    background-size: cover;
+}
+
+.container {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #ffffff;
+}
+
+.b {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 30px;
+    border-color: #cbd2d9;
+}
+
+.d {
+    border: 1px solid black;
+    border-radius: 5px;
+    border-color: #cbd2d9;
+    padding: 30px;
+
+}
+
+.e {
+    border: 1px solid black;
+    border-radius: 5px;
+    border-color: #cbd2d9;
+    padding: 30px;
+}
+
+.f {
+    border: 1px solid black;
+    border-radius: 5px;
+    border-color: #cbd2d9;
+    padding: 30px;
+}
